@@ -3,5 +3,9 @@ Nafn: Kamilla Michelle Rún Henriau
 Mail: kamillahenriau@gmail.com
 
 
+<<<<<<< HEAD
 my fav film is Fried green tomatos :)
 and my fav band is the smiths
+=======
+my fav film is Fried green tomatos :) 
+>>>>>>> parent of 24e1d45... changes
