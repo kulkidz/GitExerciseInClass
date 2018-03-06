@@ -1,8 +1,16 @@
 Best films.
 
 
+<<<<<<< HEAD
 1. Stella í Orlofi
 2. Sódóma Reykjavík
 3. Með allt á hreinu
 4. Dalalíf
 5. Veggfóður
+=======
+1. Fifth element
+2. Bridget Jones
+3. Fried green tomatos
+4. The good, the bad and the ugly
+5. Never ending story
+>>>>>>> parent of 9a67c86... changed movie list
